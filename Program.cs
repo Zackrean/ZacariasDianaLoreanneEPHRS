@@ -29,7 +29,7 @@ class Program
         while (running)
         {
             Console.Clear();
-            Console.WriteLine("=== EPHRS - BRANCH VERSION ===");
+            Console.WriteLine("=== EPHRS - MAIN VERSION ===");
             Console.WriteLine("1. Create (Add Employee)");
             Console.WriteLine("2. Read (View All Employees)");
             Console.WriteLine("3. Search / Filter Employees");
