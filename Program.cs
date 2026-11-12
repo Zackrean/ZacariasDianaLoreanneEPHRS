@@ -36,7 +36,7 @@ class Program
             Console.WriteLine("3. Search / Filter Employees");
             Console.WriteLine("4. Update Employee");
             Console.WriteLine("5. Delete Employee");
-            Console.WriteLine("6. Exit (main version)");
+            Console.WriteLine("6. Exit");
             Console.Write("\nSelect an option: ");
             string choice = Console.ReadLine();
             Console.WriteLine();
