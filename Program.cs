@@ -1,4 +1,5 @@
-﻿using System;
+﻿Console.WriteLine("Hello, World!");
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
